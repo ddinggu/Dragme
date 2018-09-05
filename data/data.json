@@ -1,0 +1,92 @@
+[
+    {
+        "name" : "비",
+        "singer" : "폴킴",
+        "url" : "https://youtu.be/9jFZdu0zTEA",
+        "cover" : "./image/paul.jpg"
+    },
+    {
+        "name" : "Rain",
+        "singer" : "김예림",
+        "url" : "https://youtu.be/qlMXZvY-_cM",
+        "cover" : "./image/limkim1.jpeg"
+    },
+    {
+        "name" : "Rain",
+        "singer" : "태연",
+        "url" : "https://youtu.be/eHir_vB1RUI",
+        "cover" : "./image/teayeon.jpg"
+    },
+    {
+        "name" : "우주비행2",
+        "singer" : "기리보이",
+        "url" : "https://youtu.be/-bY45fXSvUQ",
+        "cover" : "./image/giri.jpeg"
+    },
+    {
+        "name" : "일기예보",
+        "singer" : "CHEEZE",
+        "url" : "https://youtu.be/V9l_CxdocZk",
+        "cover" : "./image/cheeze.jpeg"
+    },
+    {
+        "name" : "La La La Love Song",
+        "singer" : "백예린",
+        "url" : "https://youtu.be/EgGeZzAm1TE",
+        "cover" : "./image/lalala.jpg"
+    },
+    {
+        "name" : "그의 바다",
+        "singer" : "백예린",
+        "url" : "https://youtu.be/ht5DtmEyZiY",
+        "cover" : "./image/yerin.jpg"
+    },
+    {
+        "name" : "Replay",
+        "singer" : "김동률",
+        "url" : "https://youtu.be/vD5CL91ZNhI",
+        "cover" : "./image/yule.jpeg"
+    },
+    {
+        "name" : "공드리",
+        "singer" : "혁오",
+        "url" : "https://youtu.be/6Ycmn5C__ho",
+        "cover" : "./image/gondary.jpg"
+    },
+    {
+        "name" : "Carnival",
+        "singer" : "가인",
+        "url" : "https://youtu.be/KsED9Gs4Lgg",
+        "cover" : "./image/gain.jpeg"
+    },
+    {
+        "name" : "너 없는 시간들",
+        "singer" : "다비치",
+        "url" : "https://youtu.be/7iwqTRQ1EUY",
+        "cover" : "./image/davichi.jpeg"
+    },
+    {
+        "name" : "먼저 말해",
+        "singer" : "김예림",
+        "url" : "https://youtu.be/NAQ0kkAYmcQ",
+        "cover" : "./image/limkim2.jpeg"
+    },
+    {
+        "name" : "By Your Side",
+        "singer" : "Hoody",
+        "url" : "https://youtu.be/TrxRuAOpHXQ",
+        "cover" : "./image/hoody.jpeg"
+    },
+    {
+        "name" : "그냥",
+        "singer" : "Lovelyz",
+        "url" : "https://youtu.be/2BAqArtFqAQ",
+        "cover" : "./image/lovelyz.jpeg"
+    },
+    {
+        "name" : "Calling In Love",
+        "singer" : "수란",
+        "url" : "https://youtu.be/zwP2oR4Bq5k",
+        "cover" : "./image/suran.jpg"
+    }
+]
